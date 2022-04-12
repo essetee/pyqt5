@@ -3,6 +3,7 @@
 The best way to execute the code is inside a virtual environment.
 
 Ubuntu: sudo apt get install python3-pip python3-virtualenv python3-virtualenvwrapper python3-venv
+
 Fedora: sudo dnf install python-pip-wheel python3-virtualenv  python3-virtualenvwrapper python3-pytest-venv
 
 Launch PyCharm and choose a new project and set the name for your project.
